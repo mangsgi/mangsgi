@@ -27,11 +27,3 @@
 - **Tech-Blog** : https://velog.io/@mangsgi/
 - **E-Mail** : ms010901@gmail.com
 
-
-<br>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangsgi&show_icons=true&hide_border=true" />
-</div>
